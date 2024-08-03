@@ -27,4 +27,13 @@ for(let i=0 ; i<number.length ; i++)
 }
 console.log (`Sum of a odd numbers are ${sum}`)
 
+//Program to say Hello to all elements from any array use key of loop.
 
+
+let j=" Hi , Hello "
+for (let i = 0; i < 5; i++)
+    {
+    console.log(j)
+    }
+    
+ 
